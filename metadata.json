@@ -1,0 +1,6 @@
+{
+  "name": "Galaxia: Interactive 3D Space & Solar Universe",
+  "description": "Interactive space-learning universe featuring 3D solar system exploration, rocket launch blastoff intro, orbit alignment simulator, Nebula Escape arcade game, astronomical quiz center, live ISS tracking, NASA news feeds, and AI Space Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
